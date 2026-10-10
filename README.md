@@ -2,15 +2,10 @@
 
 Documentation of homelab infrastructure, servers, network, and services.
 
-## Infrastructure
-- SOHO Router
-- Desktop PC as dedicated server
-- Virtual Machines as clients
-  
-## Architecture  
-
+## Infrastructure  
 - Network Design
 - Diagrams
+- hardware inventory
 
 ## Services
 - Active Directory
