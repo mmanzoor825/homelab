@@ -7,10 +7,10 @@ Documentation of homelab infrastructure, servers, network, and services.
 - Desktop PC as dedicated server
 - Virtual Machines as clients
   
-## Docs 
+## Architecture  
 
 - Inventory
-- [Network Design](docs/network.md)
+- Network Design
 
 ## Services
 - Active Directory
