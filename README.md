@@ -5,7 +5,7 @@ with new technologies, and developing skills in system administration,
 networking, virtualization, and automation.
 
 Infrastructure and service configurations are documented in Git to support
-version control, change tracking, troubleshooting, and recover
+version control, change tracking, troubleshooting, and recovery.
 
 ## Infrastructure  
 - Network Design
