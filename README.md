@@ -2,13 +2,20 @@
 
 Documentation of homelab infrastructure, servers, network, and services.
 
-# Docs 
+## Infrastructure
+- SOHO Router
+- Desktop PC as dedicated server
+- Virtual Machines as clients
+  
+## Docs 
 
-- Inventory
+- Infrastructure
 - Network Overview
 
-# Services
+## Services
 - Active Directory
 - Configuration Manager / SCCM
+- Windows Server Backup
+- Windows Server Update Services (WSUS)
 
 
