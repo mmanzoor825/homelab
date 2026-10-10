@@ -9,8 +9,8 @@ Documentation of homelab infrastructure, servers, network, and services.
   
 ## Docs 
 
-- Infrastructure
-- Network Overview
+- Inventory
+- [Network Design](docs/network.md)
 
 ## Services
 - Active Directory
