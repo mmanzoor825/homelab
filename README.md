@@ -18,4 +18,4 @@ version control, change tracking, troubleshooting, and recovery.
 - Windows Server Backup
 - Windows Server Update Services (WSUS)
 
-## Changelog
+## [Changelog](/changelog.md)
