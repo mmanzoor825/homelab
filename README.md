@@ -13,9 +13,11 @@ version control, change tracking, troubleshooting, and recovery.
 - hardware inventory
 
 ## Services
-- [Active Directory](services/activedirectory.md) 
+- [Active Directory](services/activedirectory) 
 - Configuration Manager / SCCM
 - Windows Server Backup
 - Windows Server Update Services (WSUS)
 
-## [Changelog](/changelog.md)
+## Docs
+- Changelog
+- Troubleshooting Log
