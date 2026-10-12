@@ -13,4 +13,9 @@ Installed Windows Server 2025 on a desktop
   - BITS for IIS
   - Microsoft ODBC driver for SQL
   - ADK with Windows PE Add-on
+ 
+- Installed configuration manager using the setup wizard.
+  - Site database configured on SQL server.
+  - Configuration Manager console installed.
+  - 
     
