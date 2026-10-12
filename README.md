@@ -8,16 +8,16 @@ Infrastructure and service configurations are documented in Git to support
 version control, change tracking, troubleshooting, and recovery.
 
 ## Infrastructure  
-- Network Design
+- [Network Design](infrastructure/network.md)
 - Diagrams
 - hardware inventory
 
 ## Services
 - [Active Directory](services/activedirectory) 
-- Configuration Manager / SCCM
+- [Configuration Manager / SCCM](services/configurationmanager.md)
 - Windows Server Backup
 - Windows Server Update Services (WSUS)
 
 ## Docs
-- Changelog
-- Troubleshooting Log
+- [Changelog](docs/changelog.md)
+- [Troubleshooting Log](docs/troubleshooting.md)
