@@ -15,3 +15,5 @@ Failed to get sql connection  $$<SMS Provider><10-11-2026 19:47:42.285+240><thre
 Found IClassManger: Opal SMS CSsp Provider Extension Implementation.~  $$<SMS Provider><10-11-2026 19:47:42.287+240><thread=9660 (0x25BC)>
 CExtUserContext::LeaveThread : Releasing IWbemContextPtr=-409915808~  $$<SMS Provider><10-11-2026 19:47:42.288+240><thread=9660 (0x25BC)>
 ```
+
+Event Viewer displayed the following error in regard to the ODBC driver. 
