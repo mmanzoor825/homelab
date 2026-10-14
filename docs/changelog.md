@@ -1,6 +1,12 @@
 # Changelog 
 
-Installed Windows Server 2025 on a desktop
+- Installed Windows Server 2025 Evaluation Edition on a desktop computer.
+- Configured an IP reservation for the server via DHCP.
+- Installed Active Directory Domain Services and promoted the server to a domain controller.
+  - Created test user accounts, groups, and organizational units.
+  - Successfully joined client virtual machines to the domain.
+  - Successfully configured and applied a group policy to enforce a specific wallpaper on domain joined devices. 
+  
 
 
 
@@ -17,5 +23,5 @@ Installed Windows Server 2025 on a desktop
 - Installed configuration manager using the setup wizard.
   - Site database configured on SQL server.
   - Configuration Manager console installed.
-  - 
+    
     
