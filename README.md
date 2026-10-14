@@ -20,4 +20,4 @@ version control, change tracking, troubleshooting, and recovery.
 
 ## Docs
 - [Changelog](docs/changelog.md)
-- [Troubleshooting Log](docs/troubleshooting.md)
+- [Troubleshooting Log](docs/troubleshooting)
