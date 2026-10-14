@@ -2,6 +2,7 @@
 
 Configuration Manager console unable to connect to the site database. Logs show that there is an issue connecting
 to the SQL server. 
+- Confirmed that ports 1433 and 4022 are open for SQL Server connection.
 ```powershell
 PS > Get-Content -tail 8 C:\Program Files\Microsoft Configuration Manager\logs\SMSProv.log
 
