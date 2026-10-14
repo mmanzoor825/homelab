@@ -32,4 +32,6 @@ Process Name: sitecomp.exe
 Exception: c0000005
 Address: 0X00007FFFA7DF2C10
 ```
+## Resolution
 - There are currently some documented issues with ODBC Driver for SQL Server version 18.7.1.1. Will attempt to rollback to version 18.6.2.1
+- Rollback to version 18.6.2.1 successful. Configuration manager console is able to start up without issues.
