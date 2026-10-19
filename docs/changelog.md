@@ -23,5 +23,10 @@
 - Installed configuration manager using the setup wizard.
   - Site database configured on SQL server.
   - Configuration Manager console installed.
+ 
+## 10/19/2026
+- Configured Windows Time Service
+  - Domain controller configured to synchronize from time.windows.com (Microsoft's NTP Server).
+  - Domian joined devices to synchronize from domain controller.
     
     
