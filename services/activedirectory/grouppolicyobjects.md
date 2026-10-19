@@ -4,3 +4,7 @@
   - Policy to enforce a specific desktop wallpaper to all domain-joined devices.
   - An image file on the domain controller is copied to the target machine. The group policy then applies the image as the
     desktop wallpaper using the local path to the file.
+
+- Device Policy
+  - This policy is used to configure firewall rules on domain joined devices to allow services to run properly.
+  - Ports are configured for services such as SSH, RDP, SCCM, etc.
