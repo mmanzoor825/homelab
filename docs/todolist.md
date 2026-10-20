@@ -1,8 +1,9 @@
 # To-Do List
 
 - [ ] SCCM client installation
-- [ ] Push software to SCCM clients 
+- [ ] Push software to SCCM clients
 - [ ] Configure update services for SCCM
+- [ ] Create a network diagram
 - [ ] Configure Cisco router and managed switch
 - [ ] setup VLANs
 - [ ] Configure SNMP
