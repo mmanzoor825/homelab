@@ -14,7 +14,7 @@
   - Storage: 500 GB SSD
   - Operating System: Microsoft Windows Server 2025 Standard Evaluation
  
--<b>Virtual Machines</b>
+- <b>Virtual Machines</b>
   - Hypervisor: Oracle VirtualBox
   - Purpose: General client machine
   - Memory: 2 GB
