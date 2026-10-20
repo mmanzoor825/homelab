@@ -9,14 +9,11 @@ version control, change tracking, troubleshooting, and recovery.
 
 ## Infrastructure  
 - [Network Design](infrastructure/network.md)
-- Diagrams
 - hardware inventory
 
 ## Services
 - [Active Directory](services/activedirectory) 
-- [Configuration Manager / SCCM](services/configurationmanager.md)
-- Windows Server Backup
-- Windows Server Update Services (WSUS)
+- [Configuration Manager / SCCM](services/configurationmanager)
 
 ## Docs
 - [Changelog](docs/changelog.md)
