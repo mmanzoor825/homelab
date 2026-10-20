@@ -9,7 +9,7 @@ version control, change tracking, troubleshooting, and recovery.
 
 ## Infrastructure  
 - [Network Design](infrastructure/network.md)
-- hardware inventory
+- [Hardware Inventory](infrastructure/inventory.md)
 
 ## Services
 - [Active Directory](services/activedirectory) 
