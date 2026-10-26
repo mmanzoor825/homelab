@@ -9,7 +9,7 @@ are also configured to apply setting across domain-joined devices.
 - Domain Controller: DC-02, 192.168.1.2
 - DNS Server: DC-02,192.168.1.2
 
-```powershell
+```text
 PS > Get-ADDomainController
 
 ComputerObjectDN           : CN=DC-02,OU=Domain Controllers,DC=homelab,DC=com
