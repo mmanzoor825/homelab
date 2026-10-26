@@ -10,8 +10,8 @@ The Configuration Manager console cannot connect to the Configuration Manager si
 ```
 - Configuration Manager console unable to connect to the site database. Logs show that there is an issue connecting
 to the SQL server. 
-```powershell
-PS > Get-Content -tail 8 C:\Program Files\Microsoft Configuration Manager\logs\SMSProv.log
+```text
+C:\Program Files\Microsoft Configuration Manager\logs\SMSProv.log
 
 Set SQL Machine DC-02.homelab.com from registry~  $$<SMS Provider><10-11-2026 19:47:42.281+240><thread=9660 (0x25BC)>
 *** *** Unknown SQL Error!  $$<SMS Provider><10-11-2026 19:47:42.284+240><thread=9660 (0x25BC)>
