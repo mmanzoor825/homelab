@@ -1,4 +1,5 @@
-# Issue #1: Configuration Manager - 10/11/2026
+# Issue #1: Configuration Manager Console
+## 10/11/2026
 ```text
 The Configuration Manager console cannot connect to the Configuration Manager site database. Verify the following:
 
