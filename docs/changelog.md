@@ -28,5 +28,7 @@
 - Configured Windows Time Service
   - Domain controller configured to synchronize from time.windows.com (Microsoft's NTP Server).
   - Domian joined devices to synchronize from domain controller.
-    
-    
+
+## 10/26/2026
+- Configured discovery method to find client devices for Configuration Manager.
+- Configured "client push install" to install configuration manager client on client devices. 
